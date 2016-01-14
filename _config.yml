@@ -1,0 +1,28 @@
+name: Impetus Video
+favicon: null
+layout_spectrum: 0.6108784331008792
+typography_spectrum: 0.695370678557083
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4521076788660139
+  lightness: 0.46581152989529073
+  saturation: 0.7818098058924079
+  rhythmicContrast: 0.9487788467667997
+purpose: []
